@@ -1,4 +1,4 @@
-## 棋人の道具箱
+## 道具箱
 
 [shtsume](https://github.com/hkijin/shtsume/releases/tag/v1.0.0)  
 USIプロトコル対応詰将棋検討用エンジン  
