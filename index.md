@@ -9,5 +9,6 @@ macOS, Windows
 <img width="525" alt="usi_tsumi" src="https://user-images.githubusercontent.com/99144736/198816397-832ae920-0ee0-4b59-ba14-c38dd0b30d68.png">  
 
 **将棋GUIからの使用例**   
-
+  
+============================================================
 ## 詰将棋
