@@ -1,10 +1,10 @@
 ## アプリケーション
 
-[**shtsume**](https://github.com/hkijin/shtsume/releases/tag/v1.0.0)  
+[**shtsume**](https://hkijin.github.io/shtsume/)  
 USIプロトコル対応詰将棋検討用エンジン  
 詰将棋作図の検証や作品の鑑賞等に使用できます。  
 macOS, Windows  
-ダウンロードは[こちら](https://github.com/hkijin/shtsume/releases/tag/v1.0.0) 
+ダウンロードは[こちら](https://github.com/hkijin/shtsume/releases/tag/v1.0.3) 
   
 <img width="525" alt="usi_tsumi" src="https://user-images.githubusercontent.com/99144736/198816397-832ae920-0ee0-4b59-ba14-c38dd0b30d68.png">  
 
