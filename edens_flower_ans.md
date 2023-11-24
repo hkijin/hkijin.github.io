@@ -112,4 +112,4 @@
 ▲９三金    まで655手詰
 ```
 
-<img src="http://sfenreader.appspot.com/sfen?sfen=9%2Fn1lppl2p%2FGk%2Bp4ss%2F1pp2%2BpPpN%2FR1P4PB%2F2S1N%2Blp%2Bp1%2F2%2BB2pgG1%2F9%2F3%2BP5%20b%20rgsnl3p%20655&lm=93&title=%E8%A9%B0%E4%B8%8A%E3%81%8C%E3%82%8A%E5%9B%B3&ma=on">
+<img src="http://sfenreader.appspot.com/sfen?sfen=9%2Fn1lppl2p%2FGk%2Bp4ss%2F1pp2%2BpPpN%2FR1P4PB%2F2S1N%2Blp%2Bp1%2F2%2BB2pgG1%2F9%2F3%2BP5%20b%20rgsnl3p%201&lm=93&title=%E8%A9%B0%E4%B8%8A%E3%81%8C%E3%82%8A%E5%9B%B3">
