@@ -113,3 +113,11 @@
 ```
 
 <img src="http://sfenreader.appspot.com/sfen?sfen=9%2Fn1lppl2p%2FGk%2Bp4ss%2F1pp2%2BpPpN%2FR1P4PB%2F2S1N%2Blp%2Bp1%2F2%2BB2pgG1%2F9%2F3%2BP5%20b%20rgsnl3p%201&lm=93&title=%E8%A9%B0%E4%B8%8A%E3%81%8C%E3%82%8A%E5%9B%B3">
+
+本作品の原作はこちらになります。  
+
+<img src="http://sfenreader.appspot.com/sfen?sfen=8k%2Fn1lppl2p%2Fs1%2Bp4ss%2FN1p2%2BpPpN%2Flp5PB%2FP1P1N%2Bpp2%2F1%2BB3pg%2BP1%2FpL7%2F2S2g3%20b%202R2gp%201&title=%5B%E7%81%AB%E3%81%AE%E9%B3%A5%5D%E6%A3%AE%E9%95%B7%E5%AE%8F%E6%98%8E%E3%83%BB%E8%BF%91%E8%97%A4%E7%9C%9F%E4%B8%80%E4%BD%9C">
+
+この作品は1979.6に、また、その原図は1978.9に「詰将棋パラダイス誌」で発表されているようです。
+ネット上の記録では余詰作とのことなのですが趣向と関係なさそうな駒の配置をいじってみると収束を除きほぼ作意手順が再現できる局面となりました。それが出題図となります。タイトルは2023年公開のアニメ映画「火の鳥・エデンの花」よりいただきました。  
+
